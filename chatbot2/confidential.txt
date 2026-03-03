@@ -1,0 +1,13 @@
+openai secret key
+<insert your own>
+
+
+Refrences
+3.o chatgpt finetuning
+https://medium.com/@kapildevkhatik2/mastering-gpt-3-a-comprehensive-guide-to-fine-tuning-with-openai-complete-with-examples-e28515c22d92
+https://platform.openai.com/docs/guides/fine-tuning
+https://medium.com/geekculture/a-chatbot-application-by-finetuning-gpt-3-2682aad25356
+https://www.jcchouinard.com/reddit-api/
+https://www.reddit.com/prefs/apps
+https://www.youtube.com/watch?v=_RTN8CWFUsc
+https://platform.openai.com/docs/api-reference/introduction
